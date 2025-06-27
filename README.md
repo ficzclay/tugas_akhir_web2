@@ -1,4 +1,4 @@
-# 🌟 (Tugas Akhir)Proyek Web Artikel - CodeIgniter 4 & VueJS
+# 🌟 (Tugas Akhir) Proyek Web Artikel - CodeIgniter 4 & VueJS
 
 Dokumen ini adalah ringkasan proyek pembuatan aplikasi artikel berbasis **CodeIgniter 4** dengan frontend **VueJS**. Proyek ini mencakup latihan CRUD, integrasi REST API, AJAX, dan pagination dinamis.
 
