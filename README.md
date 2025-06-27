@@ -88,33 +88,8 @@ Setiap praktikum membahas berbagai aspek penggunaan **PHP Framework CodeIgniter 
 
 Praktikum ini bertujuan untuk memberikan pemahaman mendalam tentang **pengembangan aplikasi web berbasis CodeIgniter 4**, termasuk konfigurasi awal, struktur proyek, serta implementasi fitur-fitur esensial dalam sebuah aplikasi web.
 
----
 
-## 👤 Profil Mahasiswa
 
-| Variable           | Isi                         |
-| ------------------ | --------------------------- |
-| **Nama**           | Ahmad Ridho Septian         |
-| **NIM**            | 312310447                   |
-| **Kelas**          | TI.23.A.5                   |
-| **Mata Kuliah**    | Pemrograman Web 2           |
-| **Dosen Pengampu** | Agung Nugroho S.kom., M.kom |
-
----
-
-## 🌐 Link Demo Online
-
-Berikut adalah link Website live dari proyek Web Artikel menggunakan **CodeIgniter 4** dan **VueJS** sebagai frontend-nya:
-
-| **Aplikasi**        | **URL**                                                                                                              | **Deskripsi**                             |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| **Web Artikel CI4** | [https://ahmadridho-final.infinityfreeapp.com/](https://ahmadridho-final.infinityfreeapp.com/)                       | Aplikasi web artikel dengan CodeIgniter 4 |
-| **VueJS Frontend**  | [https://ahmadridho-final.infinityfreeapp.com/lab8_vuejs/](https://ahmadridho-final.infinityfreeapp.com/lab8_vuejs/) | Frontend VueJS untuk konsumsi REST API    |
-
-> ⚙️ Backend dibangun dengan CodeIgniter 4 sebagai REST API.  
-> 🎨 Frontend dibangun menggunakan VueJS yang mengonsumsi API dari backend.
-
----
 
 ## 📚 Daftar Praktikum
 
